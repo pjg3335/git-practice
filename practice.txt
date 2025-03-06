@@ -8,4 +8,4 @@
 
 브랜치 수정2
 
-conflict1 이 수정함
+conflict1, 2
